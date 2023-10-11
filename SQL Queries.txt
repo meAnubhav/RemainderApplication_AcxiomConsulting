@@ -1,0 +1,6 @@
+create database acxiom;
+
+use acxiom;
+
+create table tt(edate date, sub varchar(10), descc varchar(1000), email varchar(50), contact_no int(10),sms_no int(10), recur varchar(6));
+
